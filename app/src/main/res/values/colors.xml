@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#61E4FF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorputih">#FDFDFD</color>
+    <color name="colorAccent">#12509C</color>
+    <color name="colorbarkanan">#B83E66</color>
+    <color name="colorbarkiri">#00BCD4</color>
+</resources>
